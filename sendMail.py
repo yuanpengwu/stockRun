@@ -6,15 +6,15 @@ import os
 #filename = "/home/pwu/stock/trading_result.txt"
 
 def sendToGmail(filename):
-	gmail_user = 'yuanpeng.wu'
-	gmail_pwd = 'wyp102938'
+	gmail_user = ''
+	gmail_pwd = ''
 
 	# Read a file
 
 
-	sender = 'yuanpeng.wu@gmail.com'
+	sender = ''
 
-	reciever = 'yuanpeng.wu@gmail.com'
+	reciever = ''
 
 	marker = "AUNIQUEMARKER"
 
